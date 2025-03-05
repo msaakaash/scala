@@ -17,8 +17,6 @@ This repository contains various Scala implementations covering fundamental conc
 - Install [sbt](https://www.scala-sbt.org/)
 
 ## ⚙️ Installation Guide
-💡 Note: It is highly recommended to use a CUDA-enabled GPU (such as NVIDIA GPUs) for faster training. If a GPU is not available, training can be done on a CPU, but it will be significantly slower
-
 ## 1️⃣ Fork the Repository
 - **Click the **Fork** button (top-right corner).**
 - **This creates a copy of the repository under your GitHub account.**
