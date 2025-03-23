@@ -1,4 +1,4 @@
-# Scala Codes Repository
+#  <img src="https://skillicons.dev/icons?i=scala" title="Scala"/> Scala Codes Repository
 
 This repository contains various Scala implementations covering fundamental concepts, data structures, functional programming, and real-world applications.
 
