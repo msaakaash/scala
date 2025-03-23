@@ -1,5 +1,0 @@
-1. Write a Scala program to check if two given strings are rotations of each other:
-2. Write a Scala program to count and print all the duplicates in the input string. 
-3. Write a Scala program to convert all the characters to lowercase, uppercase strings.
-4. Write a Scala program to get a substring of a given string between two specified positions.
-5. Write a Scala program to read a string and a character and return a new string after removing the character and its immediate neighbours.

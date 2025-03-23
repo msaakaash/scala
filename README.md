@@ -6,8 +6,11 @@ This repository contains various Scala implementations covering fundamental conc
 
 ```
 📂 scala/
-├── basics/            # Basics Scala programs
-├── README.md              # Repository overview
+├── arrays/   
+├── basics/
+├── practice/
+├── strings/             
+├── README.md          
 ```
 
 ## 🔥 Getting Started
