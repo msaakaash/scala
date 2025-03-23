@@ -1,0 +1,2 @@
+1) Given an array of integers, if the element is odd print the factorial of it, else print the square of it
+2) Given a sorted array,check whether a element is present or not.
