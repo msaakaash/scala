@@ -1,2 +1,14 @@
 1) Given an array of integers, if the element is odd print the factorial of it, else print the square of it
 2) Given a sorted array,check whether a element is present or not.
+
+Assignment Problems.
+16. Write a Scala program to reverse an array of integer values using the same array.
+17. Write a Scala program to find the common elements between two arrays of integers.
+18. Write a Scala program to find the common elements between two arrays of strings.
+19. Write a Scala program to get the difference between the largest and smallest values in an 
+array of integers. The length of the array must be 1 and above.
+20. Write a Scala program to find the two elements from a given array of positive and negative 
+numbers such that their sum is closest to zero.
+21. A Scalafunction that reads marks of ‘n’ students of a class and displays the class average. 
+Also if more than 2 students have marks less than class average, display a suitable message. 
+22. A Scala function to find the Number Occurring Odd Number of Times in an list. 
