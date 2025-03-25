@@ -1,4 +1,4 @@
-#  <img src="https://skillicons.dev/icons?i=scala" title="Scala"/> Scala Codes Repository
+#  <img align="center" src="https://skillicons.dev/icons?i=scala" title="Scala"/> Scala Codes Repository
 
 This repository contains various Scala implementations covering fundamental concepts, data structures, functional programming, and real-world applications.
 
@@ -8,6 +8,7 @@ This repository contains various Scala implementations covering fundamental conc
 📂 scala/
 ├── arrays/   
 ├── basics/
+├── classes_Objects
 ├── practice/
 ├── sorting/
 ├── strings/             
