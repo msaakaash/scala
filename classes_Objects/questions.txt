@@ -1,0 +1,23 @@
+1) Create a Student Class with a Companion Object
+
+
+2) Implement a Bank Account Class with Deposits and Withdrawals
+
+details for q2
+Create a BankAccount class with an accountNumber and a balance. Implement methods:
+deposit(amount: Double): Adds amount to the balance.
+withdraw(amount: Double): Deducts amount if sufficient balance exists.  
+showBalance(): Prints the current balance.
+
+3)
+Design a Student Management System in Scala that allows users to manage student records. Implement a Student class with attributes name: String, id: Int, and age: Int. Create a StudentManagement class that maintains a collection of students and provides methods to add a student (ensuring unique IDs), remove a student by ID, sort students by ID, and display all students. The student list should be stored in a mutable collection, and sorting should be done in-place. 
+In the Main object, create an instance of StudentManagement, add multiple students, sort them, remove a student, and display the list after each operation
+
+4)
+Design an Employee Management System in Scala that allows users to manage employee records. 
+Implement an Employee class with attributes name: String, id: Int, salary: Double, and department: String. 
+Create an EmployeeManagement class that maintains a collection of employees and provides methods to add an employee (ensuring unique IDs), remove an employee by ID, sort employees by salary in descending order, 
+filter employees by department, and display all employees. 
+The employee list should be stored in a mutable collection, and sorting should be done in-place. 
+In the Main object, create an instance of EmployeeManagement, add multiple employees, sort them by salary, filter by department, remove an employee, and display the list after each operation. 
+Ensure the system prevents duplicate IDs and maintains an organized structure
