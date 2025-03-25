@@ -21,3 +21,45 @@ filter employees by department, and display all employees.
 The employee list should be stored in a mutable collection, and sorting should be done in-place. 
 In the Main object, create an instance of EmployeeManagement, add multiple employees, sort them by salary, filter by department, remove an employee, and display the list after each operation. 
 Ensure the system prevents duplicate IDs and maintains an organized structure
+
+
+5)
+Companion Object for Factory Pattern 
+Create a Person class with name and age attributes.
+Use a companion object with a apply() method that: 
+Accepts a string in the format name,age.
+Splits the string and returns a Person instance.
+oWrite a test case where you create multiple Person objects using both new and apply() methods.
+
+
+6)
+Temperature Converter using Singleton 
+Implement a singleton object TemperatureConverter.
+It should have methods to convert: 
+Celsius to Fahrenheit.
+Fahrenheit to Celsius.
+Write a program that takes user input for temperature and uses the singleton object to convert it.
+Ensure the singleton is used throughout the program to maintain consistency
+
+7)
+Companion Object for Employee Payroll System 
+oCreate a Employee class with: 
+name: String
+salary: Double
+Use a companion object to: 
+Define a bonus() method that calculates a 10% bonus on salary.
+Define an apply() method to create an employee from a CSV string.
+Write a program that: 
+Reads employee data from a file.
+Uses the companion object to create instances and calculate bonuses.
+
+
+8)
+Online Store with Singleton Inventory 
+Create a singleton object called InventoryManager that: 
+Keeps track of available products and their stock.
+Provides methods to addStock(), removeStock(), and getStock().
+Write a program that: 
+Adds products.
+Simulates purchasing and displays remaining stock.
+Ensure all operations use the same InventoryManager instance.
