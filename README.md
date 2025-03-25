@@ -8,7 +8,7 @@ This repository contains various Scala implementations covering fundamental conc
 📂 scala/
 ├── arrays/   
 ├── basics/
-├── classes_Objects
+├── classes_Objects/
 ├── practice/
 ├── sorting/
 ├── strings/             
