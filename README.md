@@ -9,6 +9,7 @@ This repository contains various Scala implementations covering fundamental conc
 ├── arrays/   
 ├── basics/
 ├── classes_Objects/
+├── lists/
 ├── practice/
 ├── sorting/
 ├── strings/             
