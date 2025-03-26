@@ -1,0 +1,9 @@
+23. Write a Scala program to remove single and multiple elements from a given list.
+24. Write a Scala program to iterate over a list to print the elements and calculate the sum and 
+product of all elements of this list.
+25. Write a Scala program to remove duplicates from a given list.
+26. Write a Scala program to get the difference between two given lists.
+27. Write a Scala program to check a given list is a palindrome or not.
+28. A Scala function to display all the duplicates elements in the list. 
+29. A Scala function that reads a list and print the odd numbers in the list.
+30. A Scala function that reads a list and print the sum of even numbers in the list.
