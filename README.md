@@ -62,7 +62,7 @@ git push origin feature-branch
 
 
 ## 📚 Topics Covered
-- Basics of Scala (Variables, Loops, Functions, etc.)
+- Basics of Scala (Variables, Loops, Functions,Classes and Objects etc.)
 
 
 ## 🤝 Contributing
